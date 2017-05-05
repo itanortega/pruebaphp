@@ -1,3 +1,3 @@
 <?php
-	echo "funca";
+	echo "funcadfsa";
 ?>
